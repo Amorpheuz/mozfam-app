@@ -15,7 +15,7 @@
 ![Stock Release](https://raw.githubusercontent.com/Amorpheuz/mozfam-app/master/releaseStock_success.png)
 
 ## Other Links:
-- [Youtube](https://www.youtube.com/watch?v=LaepFJ_s-4w&feature=emb_title)
+- [Youtube](https://www.youtube.com/watch?v=LaepFJ_s-4w&feature=emb_title)(The Youtube Link has the old UI. To check the new UI, please clone this repository)
 - [Devfolio Submission](https://devfolio.co/submissions/the-onion-rooting)
 
 ## Team: 
